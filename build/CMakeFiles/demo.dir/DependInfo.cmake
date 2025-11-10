@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/Cassian/School_Local/CMPM_123/Week5/Connect4WithAI/classes/BitHolder.cpp" "CMakeFiles/demo.dir/classes/BitHolder.cpp.o" "gcc" "CMakeFiles/demo.dir/classes/BitHolder.cpp.o.d"
   "/Users/Cassian/School_Local/CMPM_123/Week5/Connect4WithAI/classes/Checkers.cpp" "CMakeFiles/demo.dir/classes/Checkers.cpp.o" "gcc" "CMakeFiles/demo.dir/classes/Checkers.cpp.o.d"
   "/Users/Cassian/School_Local/CMPM_123/Week5/Connect4WithAI/classes/ChessSquare.cpp" "CMakeFiles/demo.dir/classes/ChessSquare.cpp.o" "gcc" "CMakeFiles/demo.dir/classes/ChessSquare.cpp.o.d"
+  "/Users/Cassian/School_Local/CMPM_123/Week5/Connect4WithAI/classes/Connect4.cpp" "CMakeFiles/demo.dir/classes/Connect4.cpp.o" "gcc" "CMakeFiles/demo.dir/classes/Connect4.cpp.o.d"
   "/Users/Cassian/School_Local/CMPM_123/Week5/Connect4WithAI/classes/Game.cpp" "CMakeFiles/demo.dir/classes/Game.cpp.o" "gcc" "CMakeFiles/demo.dir/classes/Game.cpp.o.d"
   "/Users/Cassian/School_Local/CMPM_123/Week5/Connect4WithAI/classes/Grid.cpp" "CMakeFiles/demo.dir/classes/Grid.cpp.o" "gcc" "CMakeFiles/demo.dir/classes/Grid.cpp.o.d"
   "/Users/Cassian/School_Local/CMPM_123/Week5/Connect4WithAI/classes/Othello.cpp" "CMakeFiles/demo.dir/classes/Othello.cpp.o" "gcc" "CMakeFiles/demo.dir/classes/Othello.cpp.o.d"

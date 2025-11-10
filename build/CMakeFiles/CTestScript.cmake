@@ -61,8 +61,8 @@ set(CTEST_MEMORYCHECK_SANITIZER_OPTIONS "")
 set(CTEST_MEMORYCHECK_SUPPRESSIONS_FILE "")
 
 # CTest Submit Step
-set(CTEST_SITE "eduroam-169-233-253-210.ucsc.edu")
-set(CTEST_BUILD_NAME "Darwin-clang++")
+set(CTEST_SITE "Cassians-Laptop.local")
+set(CTEST_BUILD_NAME "Darwin-c++")
 set(CTEST_SUBMIT_URL "http://")
 set(CTEST_SUBMIT_INACTIVITY_TIMEOUT "")
 set(CTEST_TLS_VERIFY "")

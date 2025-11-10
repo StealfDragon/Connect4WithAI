@@ -650,6 +650,30 @@ classes/ChessSquare.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/classes/ChessSquare.cpp.s
 .PHONY : classes/ChessSquare.cpp.s
 
+classes/Connect4.o: classes/Connect4.cpp.o
+.PHONY : classes/Connect4.o
+
+# target to build an object file
+classes/Connect4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/classes/Connect4.cpp.o
+.PHONY : classes/Connect4.cpp.o
+
+classes/Connect4.i: classes/Connect4.cpp.i
+.PHONY : classes/Connect4.i
+
+# target to preprocess a source file
+classes/Connect4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/classes/Connect4.cpp.i
+.PHONY : classes/Connect4.cpp.i
+
+classes/Connect4.s: classes/Connect4.cpp.s
+.PHONY : classes/Connect4.s
+
+# target to generate assembly for a file
+classes/Connect4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/classes/Connect4.cpp.s
+.PHONY : classes/Connect4.cpp.s
+
 classes/Game.o: classes/Game.cpp.o
 .PHONY : classes/Game.o
 
@@ -1042,6 +1066,9 @@ help:
 	@echo "... classes/ChessSquare.o"
 	@echo "... classes/ChessSquare.i"
 	@echo "... classes/ChessSquare.s"
+	@echo "... classes/Connect4.o"
+	@echo "... classes/Connect4.i"
+	@echo "... classes/Connect4.s"
 	@echo "... classes/Game.o"
 	@echo "... classes/Game.i"
 	@echo "... classes/Game.s"

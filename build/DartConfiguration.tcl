@@ -11,10 +11,10 @@ BuildDirectory: /Users/Cassian/School_Local/CMPM_123/Week5/Connect4WithAI/build
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: eduroam-169-233-253-210.ucsc.edu
+Site: Cassians-Laptop.local
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Darwin-clang++
+BuildName: Darwin-c++
 
 # Subprojects
 LabelsForSubprojects: 
@@ -63,7 +63,7 @@ UpdateOptions:
 UpdateType: git
 
 # Compiler info
-Compiler: /usr/bin/clang++
+Compiler: /usr/bin/c++
 CompilerVersion: 15.0.0.15000309
 
 # Dynamic analysis (MemCheck)
